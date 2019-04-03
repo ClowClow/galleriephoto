@@ -23,7 +23,7 @@
   </div>
 </div>
 <div class="part1" id="part1">
-  <div>
+  <div class="imageprésentation">
     <img src="images/encours.jpg" alt="cette section est en construction"
     width="300px" height="225px"/>
   </div>
@@ -36,19 +36,19 @@
   </div>
 </section>
 <div class="part2" id="part2">
-  <div class="album"><a href="albums/concerts.php" target="_blank">
+  <div class="album"><a class="gallerie" href="albums/concerts.php" target="_blank">
     <img src="images/aconcert.jpg" alt="photo impact concert Mademoiselle K"
     width="300px" height="225px"/></a>
   </div>
-  <div class="album"><a href="albums/urbain.php" target="_blank">
+  <div class="album"><a class="gallerie" href="albums/urbain.php" target="_blank">
     <img src="images/aurbain.jpg" alt="photo impact match de foot"
     width="300px" height="225px"/></a>
   </div>
-  <div class="album"><a href="albums/charleville.php" target="_blank">
+  <div class="album"><a class="gallerie" href="albums/charleville.php" target="_blank">
     <img src="images/acharleville.jpg" alt="photo impact hôtel de ville"
     width="300px" height="225px"/></a>
   </div>
-  <div class="album"><a href="albums/ambiance.php" target="_blank">
+  <div class="album"><a class="gallerie" href="albums/ambiance.php" target="_blank">
     <img src="images/aambiance.jpg" alt="photo impact grille métalique"
     width="300px" height="225px"/></a>
   </div>

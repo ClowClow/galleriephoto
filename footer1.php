@@ -15,8 +15,8 @@
 </div>
 <div class="two">
 <h3>Nous contacter</h3>
-<a class="foot" target="_blank" href="https://www.facebook.com/chloe.servieres.10"><img src="images/fblibre.png" width="20px" height="20px"></a>
-<a class="foot" target="_blank" href="https://twitter.com/clow_chloe"><img src="images/tblibres.png" width="20px" height="20px"></a>
-<a class="foot" target="_blank" href="https://www.instagram.com/chloeservieres/?hl=fr"><img src="images/iblibres.png" width="20px" height="20px"></a>
+<a class="foot" target="_blank" href="https://www.facebook.com/chloe.servieres.10"><img class="socialmedia" src="images/fblibre.png" width="20px" height="20px"></a>
+<a class="foot" target="_blank" href="https://twitter.com/clow_chloe"><img class="socialmedia" src="images/tblibres.png" width="20px" height="20px"></a>
+<a class="foot" target="_blank" href="https://www.instagram.com/chloeservieres/?hl=fr"><img class="socialmedia" src="images/iblibres.png" width="20px" height="20px"></a>
 </div>
 </footer>

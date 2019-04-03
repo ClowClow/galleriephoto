@@ -23,9 +23,9 @@
   </div>
 </div>
 <div class="part1" id="part1">
-  <div>
+  <div class="imageprésentation">
     <img src="images/encours.jpg" alt="cette section est en construction"
-    width="300px" height="225px"/>
+    width="300px" height="225px" border="1px solid #fff"/>
   </div>
   <div class="texte">
     <p>Bonjour, je suis un paragraphe de présentation !!</p>
