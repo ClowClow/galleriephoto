@@ -15,10 +15,10 @@
     <div class="slides">
       <img src="images/slider2.jpg" class="item"
       alt="image représentant un public lors d'un concert"
-      width="1048px" height="700px" />
+      width="50%" height="900px" />
       <img src="images/slider.jpg" class="item"
       alt="image représentant un public lors d'un concert"
-      width="1048px" height="700px"/>
+      width="50%" height="900px"/>
     </div>
   </div>
 </div>

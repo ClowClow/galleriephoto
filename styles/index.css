@@ -39,31 +39,31 @@ a.nav, a.nav:visited {
   float: left;
 }
 .slides {
-  width: calc(1048px * 2);
+  width: calc(100% * 2);
   animation: glisse 15s infinite;
 }
 .slider {
-  width: 1048px;
-  height: 700px;
+  width: 100%;
+  height: 900px;
   overflow: hidden;
   margin: 150px auto;
   z-index: 1;
 }
 @keyframes glisse {
   0% {
-    transform: translate(0px);
+    transform: translate(0%);
   }
   10% {
-    transform: translate(0px);
+    transform: translate(0%);
   }
   50% {
-    transform: translate(-1048px);
+    transform: translate(-50%);
   }
   75% {
-    transform: translate(-1048px);
+    transform: translate(-50%);
   }
   100% {
-    transform: translate(0);
+    transform: translate(0%);
   }
 }
 /* définit les propriétés de la zone de texte */
