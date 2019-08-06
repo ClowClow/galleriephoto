@@ -12,6 +12,7 @@
   background-color: #000000;
   color: #fff;
   font-size: 150%;
+  z-index: 1;
 }
 /* définit les propriétés des liens de la navbar */
 a.nav, a.nav:visited {

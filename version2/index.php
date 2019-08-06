@@ -34,8 +34,9 @@
     </div>
   </section>
 
-  <section class="paralaxe">
-  </section>
+  <div class="paralax-window" data-parallax="scroll"
+  data-image-src="images/light.jpg" alt="image projecteurs en paralaxe">
+  </div>
 
   <section class="gallery">
     <div class="gallery_album_container">
@@ -84,5 +85,10 @@
 <?php include "footer1.php"; ?>
 <?php include "footer2.php"; ?>
 </section>
+<!-- Scripts JS -->
+<!-- paralax start -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/parallax.js/1.4.2/parallax.min.js"></script>
+<!-- paralax end -->
 </body>
 </html>
