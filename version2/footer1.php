@@ -8,11 +8,6 @@
     <a class="foot" href="albums/charleville.php">Charleville</a><br/>
     <a class="foot" href="albums/ambiance.php">Ambiances</a><br/>
   </div>
-  <div>
-    <h3>Bonus</h3>
-    <a class="foot" href="illusion.php">Index avec illusion de Paralaxe</a><br/>
-    <a class="foot" href="effet.php">Index avec effet projecteur sur la Gallerie</a><br/>
-  </div>
 </div>
 <div class="two">
 <h3>Nous contacter</h3>

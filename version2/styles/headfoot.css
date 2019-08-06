@@ -21,9 +21,9 @@ a.nav, a.nav:visited {
   outline-style: none;
 }
 a.nav:hover {
-  color: #fff;
-  text-decoration: none;
-  text-shadow: 0px 0px 5px #fff;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-image: -webkit-linear-gradient(left, red, orange, yellow, green, aqua, blue, deeppink);
 }
 a.nav:active {
   outline-style: none;
@@ -60,11 +60,13 @@ a.foot, a.foot:visited {
   outline-style: none;
 }
 a.foot:hover {
-  color: #fff;
   text-decoration: none;
   outline-style:none;
-  text-shadow: 0 0 5px #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: -webkit-linear-gradient(left, red, orange, yellow, green, aqua, blue, deeppink);
 }
 .socialmedia:hover {
-  box-shadow: 0 0 10px #fff;
+  -webkit-background-color: transparent;
+  background-image: -webkit-linear-gradient(left, red, orange, yellow, green, aqua, blue, deeppink);
 }
