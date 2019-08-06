@@ -80,9 +80,9 @@
     </div>
   </section>
 </main>
-<div class="footer">
+<section class="footer">
 <?php include "footer1.php"; ?>
 <?php include "footer2.php"; ?>
-</div>
+</section>
 </body>
 </html>
