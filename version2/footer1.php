@@ -1,3 +1,4 @@
+<link href="styles/headfoot.css" type="text/css" rel="stylesheet">
 <footer class="footer1">
 <div class="one">
   <div>

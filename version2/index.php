@@ -16,7 +16,7 @@
       <div class="slider_slides">
         <img src="images/slider2.jpg" class="slider_slides_item"
         alt="image représentant un public lors d'un concert"
-        width="50%" height="900px" />
+        width="50%" height="900px"/>
         <img src="images/slider.jpg" class="slider_slides_item"
         alt="image représentant un public lors d'un concert"
         width="50%" height="900px"/>

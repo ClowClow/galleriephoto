@@ -1,3 +1,4 @@
+<link href="styles/headfoot.css" type="text/css" rel="stylesheet">
 <header class="header">
   <div class="navbar">
     <div><img class="logo1" src="images/logo.png" alt="logo appareil photo"

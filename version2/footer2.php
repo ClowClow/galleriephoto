@@ -1,3 +1,4 @@
+<link href="styles/headfoot.css" type="text/css" rel="stylesheet">
 <footer class="footer2">
   <link href="styles/footer2.css" type="text/css" rel="stylesheet">
   <div class="copyright">
